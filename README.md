@@ -1,2 +1,2 @@
 # text-classification
-Phân loại văn bản dùng phoBERT và CNN
+Trong project này, mình sẽ thực hiện phân loại tin tức trên bộ dữ liệu VNTC
